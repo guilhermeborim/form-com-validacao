@@ -105,3 +105,15 @@ input[type="submit"] {
 .template {
   display: none;
 }
+
+footer {
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 333px;
+}
+
+footer p {
+  color: white;
+}
